@@ -1,0 +1,12 @@
+Hello there,
+My name is Nishant and my project's name is Portena, a decentralised distributed cloud computing alternative for conventional computers.
+This idea struck me a few months back and since then i've been searching for similar types of technology but to my surprise nobody had invented it yet. 
+So i conducted a lot of market research and feasibility tests and also spoke to a few experts about it and they too liked the idea.
+The problem with the computer's today is that they come with a predefined set of computing resources and they cannot be changed, which often leads to lag due to over-use. Another problem is the physical hardware which is difficult to maintain and poses a lot of security risks.
+By using the concept of virtual computing, I intend to transform the way we think about computers by obviating the need for physical hardware. The fundamental concept is that all computing will occur in the cloud, connected to a modified microchip via a vnc connection, and that the vnc signals will be tunnelled to the display so that we can mirror a virtual desktop that is located elsewhere to our display.
+The entire elastic computing conecpt, which is a composite representation of the aws ec2 model, will be the foundation of the cloud server. This will drastically cut costs while also boosting security.
+To connect to the virtual server using a cellular modified microchip that mirrors the virtual server to a display using hdmi, all we need to carry around is a small, portable device with a straightforward function. Due to the SSL issued by renowned cloud providers like AWS, Alibaba, Azure, etc., this device will have zero latency and a 99.999% uptime. Both the idea of virtual desktops, which is already used by numerous businesses like VMware, and the idea of remote connection, which takes the form of thin clients, both already exist. Although there are many products based on this concept on the market, none of them have advanced this strategy to this degree.
+This is genuinely completely new, inventive, and unique. With the development of 5G technology, the foldable smartphone market, and wearable technology, we can get rid of computing's physical limitations and concentrate only on its function.
+This product is entirely feasible to produce and is based on already existing technologies. I'm excited to work with incubators, contributors, and investors to advance my project.
+There is a lot more to this technology, pls refer to my research page for a complete idea.
+Thank You.
